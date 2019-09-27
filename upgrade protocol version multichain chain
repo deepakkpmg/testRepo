@@ -1,0 +1,472 @@
+deepak@deepak-VirtualBox:~$ multichaind -version
+
+MultiChain 2.0 Daemon (Community Edition, protocol 10008-10011, 20001-20009)
+
+Copyright (c) Coin Sciences Ltd - www.multichain.com
+
+You are granted a non-exclusive license to use this software for any legal
+purpose, and to redistribute it unmodified.
+
+The software product under this license is provided free of charge.
+
+Full terms are shown at: http://www.multichain.com/terms-of-service/
+deepak@deepak-VirtualBox:~$ multichaind Khetesh -daemon
+
+MultiChain 2.0 Daemon (Community Edition, latest protocol 20009)
+
+Starting up node...
+
+Other nodes can connect to this node using:
+multichaind Khetesh@10.0.2.15:6751
+
+Listening for API requests on port 6750 (local only - see rpcallowip setting)
+
+Chain running protocol version 10008
+
+Node ready.
+
+deepak@deepak-VirtualBox:~$ multichain-cli Khetesh
+
+MultiChain 2.0 RPC client
+
+
+Interactive mode
+
+Khetesh: getinfo
+{"method":"getinfo","params":[],"id":"48087952-1554469256","chain_name":"Khetesh"}
+
+{
+    "version" : "2.0",
+    "nodeversion" : 20000901,
+    "protocolversion" : 10008,
+    "chainname" : "Khetesh",
+    "description" : "MultiChain Khetesh",
+    "protocol" : "multichain",
+    "port" : 6751,
+    "setupblocks" : 60,
+    "nodeaddress" : "Khetesh@10.0.2.15:6751",
+    "burnaddress" : "1XXXXXXWzhXXXXXXmxXXXXXXYaXXXXXXZ14D5B",
+    "incomingpaused" : false,
+    "miningpaused" : false,
+    "offchainpaused" : false,
+    "walletversion" : 60000,
+    "balance" : 0,
+    "walletdbversion" : 2,
+    "reindex" : false,
+    "blocks" : 59,
+    "timeoffset" : 0,
+    "connections" : 0,
+    "proxy" : "",
+    "difficulty" : 5.96046447753906e-8,
+    "testnet" : false,
+    "keypoololdest" : 1554461439,
+    "keypoolsize" : 2,
+    "paytxfee" : 0,
+    "relayfee" : 0,
+    "errors" : ""
+}
+Khetesh: listpermissions
+{"method":"listpermissions","params":[],"id":"31063151-1554469303","chain_name":"Khetesh"}
+
+[
+    {
+        "address" : "1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL",
+        "for" : null,
+        "type" : "mine",
+        "startblock" : 0,
+        "endblock" : 4294967295
+    },
+    {
+        "address" : "1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL",
+        "for" : null,
+        "type" : "admin",
+        "startblock" : 0,
+        "endblock" : 4294967295
+    },
+    {
+        "address" : "1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL",
+        "for" : null,
+        "type" : "activate",
+        "startblock" : 0,
+        "endblock" : 4294967295
+    },
+    {
+        "address" : "1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL",
+        "for" : null,
+        "type" : "connect",
+        "startblock" : 0,
+        "endblock" : 4294967295
+    },
+    {
+        "address" : "1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL",
+        "for" : null,
+        "type" : "send",
+        "startblock" : 0,
+        "endblock" : 4294967295
+    },
+    {
+        "address" : "1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL",
+        "for" : null,
+        "type" : "receive",
+        "startblock" : 0,
+        "endblock" : 4294967295
+    },
+    {
+        "address" : "1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL",
+        "for" : null,
+        "type" : "issue",
+        "startblock" : 0,
+        "endblock" : 4294967295
+    },
+    {
+        "address" : "1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL",
+        "for" : null,
+        "type" : "create",
+        "startblock" : 0,
+        "endblock" : 4294967295
+    }
+]
+Khetesh: 
+deepak@deepak-VirtualBox:~$ create from 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade DHR false '{"protocol-version":[20006}'
+
+Command 'create' not found, did you mean:
+
+  command 'pcreate' from deb pbuilder-scripts
+  command 'pcreate' from deb python-pyramid
+
+Try: sudo apt install <deb name>
+
+deepak@deepak-VirtualBox:~$ multichain-cli create from 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade DHR false '{"protocol-version":[20006}'
+
+MultiChain 2.0 RPC client
+
+ERROR: Couldn't read configuration file for blockchain create. 
+
+Be sure include the blockchain name before the command name, e.g.:
+
+multichain-cli chain1 create
+
+deepak@deepak-VirtualBox:~$ multichain-cli Khetesh create from 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade DHR false '{"protocol-version":[20006}'
+error: Error parsing JSON:upgrade
+deepak@deepak-VirtualBox:~$ multichain-cli Khetesh create from 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade DHR false '{"protocol-version":20006}'
+error: Error parsing JSON:upgrade
+deepak@deepak-VirtualBox:~$ multichain-cli Khetesh create from 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade [DHR] false '{"protocol-version":[20006]}'
+error: Error parsing JSON:upgrade
+deepak@deepak-VirtualBox:~$ multichain-cli Khetesh create from 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade [DHR] false '{"protocol-version":[20006]}'
+error: Error parsing JSON:upgrade
+deepak@deepak-VirtualBox:~$ multichain-cli Khetesh create from 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade [upgrade-name] false '{"protocol-version":[20006]}'
+error: Error parsing JSON:upgrade
+deepak@deepak-VirtualBox:~$ multichain-cli Khetesh
+
+MultiChain 2.0 RPC client
+
+
+Interactive mode
+
+Khetesh: create from 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade upgrade-name false '{"protocol-version":[20006]}'  
+error: Error parsing JSON:upgrade
+Khetesh: create from 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade upgrade-name false '{"protocol-version":20006}'  
+error: Error parsing JSON:upgrade
+Khetesh: create from [1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL] upgrade [upgrade-name] false '{"protocol-version":[20006]}'
+error: Error parsing JSON:upgrade
+Khetesh: create from [1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL] upgrade [upgrade-name] false '{"protocol-version":"20006"}'
+error: Error parsing JSON:upgrade
+Khetesh: create from [1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL] upgrade [upgrade-name] false '{"protocol-version":20006}'  
+error: Error parsing JSON:upgrade
+Khetesh: create from 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade DHR false '{"protocol-version":20006}'             
+error: Error parsing JSON:upgrade
+Khetesh: create from 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade Khetesh false '{"protocol-version":20006}'
+error: Error parsing JSON:upgrade
+Khetesh: create from 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade Khetesh false {"protocol-version":20006}  
+error: Error parsing JSON:upgrade
+Khetesh: create from 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade Khetesh false {"protocol-version":"20006"}
+error: Error parsing JSON:upgrade
+Khetesh: create from 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade multichain-2.0-release false {"protocol-version":"20006"}
+error: Error parsing JSON:upgrade
+Khetesh: create from "1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL" upgrade "multichain-2.0-release" false {"protocol-version":"20006"}
+error: Error parsing JSON:upgrade
+Khetesh: create from "1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL" upgrade "multichain-2.0-release" false '{"protocol-version":"20006"}'
+error: Error parsing JSON:upgrade
+Khetesh: create from 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade multichain-2.0-release false '{"protocol-version":"20006"}'    
+error: Error parsing JSON:upgrade  
+                                             
+Khetesh: createfrom 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade multichain-2.0-release false '{"protocol-version":20006}' /*command that probably worked*/
+{"method":"createfrom","params":["1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL","upgrade","multichain-2.0-release",false,{"protocol-version":20006}],"id":"69827708-1554470750","chain_name":"Khetesh"}
+
+c263e6c65f5dd81daa3429bfb7ec99e25c810aaf4f065c0e1e912a80d3a4ff1d
+Khetesh: getinfo
+{"method":"getinfo","params":[],"id":"22690655-1554470774","chain_name":"Khetesh"}
+
+{
+    "version" : "2.0",
+    "nodeversion" : 20000901,
+    "protocolversion" : 10008,
+    "chainname" : "Khetesh",
+    "description" : "MultiChain Khetesh",
+    "protocol" : "multichain",
+    "port" : 6751,
+    "setupblocks" : 60,
+    "nodeaddress" : "Khetesh@10.0.2.15:6751",
+    "burnaddress" : "1XXXXXXWzhXXXXXXmxXXXXXXYaXXXXXXZ14D5B",
+    "incomingpaused" : false,
+    "miningpaused" : false,
+    "offchainpaused" : false,
+    "walletversion" : 60000,
+    "balance" : 0,
+    "walletdbversion" : 2,
+    "reindex" : false,
+    "blocks" : 60,
+    "timeoffset" : 0,
+    "connections" : 0,
+    "proxy" : "",
+    "difficulty" : 5.96046447753906e-8,
+    "testnet" : false,
+    "keypoololdest" : 1554461439,
+    "keypoolsize" : 2,
+    "paytxfee" : 0,
+    "relayfee" : 0,
+    "errors" : ""
+}
+Khetesh: createfrom 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade multichain-2.0-release false '{"protocolversion":20006}' 
+{"method":"createfrom","params":["1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL","upgrade","multichain-2.0-release",false,{"protocolversion":20006}],"id":"25835471-1554470813","chain_name":"Khetesh"}
+
+error code: -705
+error message:
+Upgrade, stream or asset with this name already exists
+Khetesh: createfrom 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade multichain-2.0-release false '{"protocol-version":20006}'
+{"method":"createfrom","params":["1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL","upgrade","multichain-2.0-release",false,{"protocol-version":20006}],"id":"29736662-1554470823","chain_name":"Khetesh"}
+
+error code: -705
+error message:
+Upgrade, stream or asset with this name already exists
+Khetesh: listupgrades multichain-2.0-release
+{"method":"listupgrades","params":["multichain-2.0-release"],"id":"20965451-1554470917","chain_name":"Khetesh"}
+
+[
+    {
+        "name" : "multichain-2.0-release",
+        "createtxid" : "c263e6c65f5dd81daa3429bfb7ec99e25c810aaf4f065c0e1e912a80d3a4ff1d",
+        "params" : {
+            "protocol-version" : 20006
+        },
+        "startblock" : 0,
+        "approved" : false,
+        "appliedblock" : null,
+        "appliedparams" : null,
+        "skippedparams" : null,
+        "admins" : [
+        ],
+        "required" : 1
+    }
+]
+Khetesh: getinfo
+{"method":"getinfo","params":[],"id":"69386184-1554470926","chain_name":"Khetesh"}
+
+{
+    "version" : "2.0",
+    "nodeversion" : 20000901,
+    "protocolversion" : 10008,
+    "chainname" : "Khetesh",
+    "description" : "MultiChain Khetesh",
+    "protocol" : "multichain",
+    "port" : 6751,
+    "setupblocks" : 60,
+    "nodeaddress" : "Khetesh@10.0.2.15:6751",
+    "burnaddress" : "1XXXXXXWzhXXXXXXmxXXXXXXYaXXXXXXZ14D5B",
+    "incomingpaused" : false,
+    "miningpaused" : false,
+    "offchainpaused" : false,
+    "walletversion" : 60000,
+    "balance" : 0,
+    "walletdbversion" : 2,
+    "reindex" : false,
+    "blocks" : 69,
+    "timeoffset" : 0,
+    "connections" : 0,
+    "proxy" : "",
+    "difficulty" : 5.96046447753906e-8,
+    "testnet" : false,
+    "keypoololdest" : 1554461439,
+    "keypoolsize" : 2,
+    "paytxfee" : 0,
+    "relayfee" : 0,
+    "errors" : ""
+}
+Khetesh: approvefrom 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL multichain-2.0-release true
+{"method":"approvefrom","params":["1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL","multichain-2.0-release",true],"id":"92903255-1554471005","chain_name":"Khetesh"}
+
+2e7bdfbdb51097adfdbfe51e12cf9b900b0c7f416f09ddc5b73f16bc6dfe53a7
+Khetesh: getinfo                                                                       
+{"method":"getinfo","params":[],"id":"61262536-1554471008","chain_name":"Khetesh"}
+
+{
+    "version" : "2.0",
+    "nodeversion" : 20000901,
+    "protocolversion" : 10008,
+    "chainname" : "Khetesh",
+    "description" : "MultiChain Khetesh",
+    "protocol" : "multichain",
+    "port" : 6751,
+    "setupblocks" : 60,
+    "nodeaddress" : "Khetesh@10.0.2.15:6751",
+    "burnaddress" : "1XXXXXXWzhXXXXXXmxXXXXXXYaXXXXXXZ14D5B",
+    "incomingpaused" : false,
+    "miningpaused" : false,
+    "offchainpaused" : false,
+    "walletversion" : 60000,
+    "balance" : 0,
+    "walletdbversion" : 2,
+    "reindex" : false,
+    "blocks" : 70,
+    "timeoffset" : 0,
+    "connections" : 0,
+    "proxy" : "",
+    "difficulty" : 5.96046447753906e-8,
+    "testnet" : false,
+    "keypoololdest" : 1554461439,
+    "keypoolsize" : 2,
+    "paytxfee" : 0,
+    "relayfee" : 0,
+    "errors" : ""
+}
+Khetesh: listupgrades multichain-2.0-release                                           
+{"method":"listupgrades","params":["multichain-2.0-release"],"id":"84095196-1554471042","chain_name":"Khetesh"}
+
+[
+    {
+        "name" : "multichain-2.0-release",
+        "createtxid" : "c263e6c65f5dd81daa3429bfb7ec99e25c810aaf4f065c0e1e912a80d3a4ff1d",
+        "params" : {
+            "protocol-version" : 20006
+        },
+        "startblock" : 0,
+        "approved" : true,
+        "appliedblock" : 71,
+        "appliedparams" : {
+            "protocol-version" : 20006
+        },
+        "skippedparams" : {
+        },
+        "admins" : [
+            "1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL"
+        ],
+        "required" : 0
+    }
+]
+Khetesh: listupgrades multichain-2.0-release
+{"method":"listupgrades","params":["multichain-2.0-release"],"id":"67790393-1554471073","chain_name":"Khetesh"}
+
+[
+    {
+        "name" : "multichain-2.0-release",
+        "createtxid" : "c263e6c65f5dd81daa3429bfb7ec99e25c810aaf4f065c0e1e912a80d3a4ff1d",
+        "params" : {
+            "protocol-version" : 20006
+        },
+        "startblock" : 0,
+        "approved" : true,
+        "appliedblock" : 71,
+        "appliedparams" : {
+            "protocol-version" : 20006
+        },
+        "skippedparams" : {
+        },
+        "admins" : [
+            "1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL"
+        ],
+        "required" : 0
+    }
+]
+Khetesh: listupgrades multichain-2.0-release
+{"method":"listupgrades","params":["multichain-2.0-release"],"id":"75311832-1554471075","chain_name":"Khetesh"}
+
+[
+    {
+        "name" : "multichain-2.0-release",
+        "createtxid" : "c263e6c65f5dd81daa3429bfb7ec99e25c810aaf4f065c0e1e912a80d3a4ff1d",
+        "params" : {
+            "protocol-version" : 20006
+        },
+        "startblock" : 0,
+        "approved" : true,
+        "appliedblock" : 71,
+        "appliedparams" : {
+            "protocol-version" : 20006
+        },
+        "skippedparams" : {
+        },
+        "admins" : [
+            "1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL"
+        ],
+        "required" : 0
+    }
+]
+Khetesh: getinfo                            
+{"method":"getinfo","params":[],"id":"42691221-1554471081","chain_name":"Khetesh"}
+
+{
+    "version" : "2.0",
+    "nodeversion" : 20000901,
+    "protocolversion" : 20006,
+    "chainname" : "Khetesh",
+    "description" : "MultiChain Khetesh",
+    "protocol" : "multichain",
+    "port" : 6751,
+    "setupblocks" : 60,
+    "nodeaddress" : "Khetesh@10.0.2.15:6751",
+    "burnaddress" : "1XXXXXXWzhXXXXXXmxXXXXXXYaXXXXXXZ14D5B",
+    "incomingpaused" : false,
+    "miningpaused" : false,
+    "offchainpaused" : false,
+    "walletversion" : 60000,
+    "balance" : 0,
+    "walletdbversion" : 2,
+    "reindex" : false,
+    "blocks" : 77,
+    "timeoffset" : 0,
+    "connections" : 0,
+    "proxy" : "",
+    "difficulty" : 5.96046447753906e-8,
+    "testnet" : false,
+    "keypoololdest" : 1554461439,
+    "keypoolsize" : 2,
+    "paytxfee" : 0,
+    "relayfee" : 0,
+    "errors" : ""
+}
+
+
+Chain name Khetesh, first go in interactive mode, upgrade name we give as multichain-2.0-release, target protocol version was : 20006
+
+Khetesh: listupgrades multichain-2.0-release
+
+createfrom 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade multichain-2.0-release false '{"protocol-version":20006}' 
+
+getinfo  
+
+createfrom 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade multichain-2.0-release false '{"protocolversion":20006}'
+
+createfrom 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL upgrade multichain-2.0-release false '{"protocol-version":20006}'
+
+listupgrades multichain-2.0-release 
+
+getinfo
+
+approvefrom 1JPVT94vnY19nnDYFPu68sV3ANM4KYKeaHAKxL multichain-2.0-release true     
+
+getinfo
+
+listupgrades multichain-2.0-release 
+
+getinfo
+
+
+you may also refer to  https://www.multichain.com/developers/upgrading-nodes-chains/
+
+
+
+ 
+
+
+
+

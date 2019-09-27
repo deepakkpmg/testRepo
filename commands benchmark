@@ -1,0 +1,895 @@
+POST /addData?WIDGET=MEDICINEDOSAGEMASTER 401 109.027 ms - 48
+POST /addData?WIDGET=MEDICINEDOSAGEMASTER 401 109.027 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1144:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=MEDICINEDOSAGEMASTER 401 103.046 ms - 48
+POST /addData?WIDGET=MEDICINEDOSAGEMASTER 401 103.046 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:718:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=MEDICINEDOSAGEMASTER 200 107.840 ms - 130
+POST /readData?WIDGET=MEDICINEDOSAGEMASTER 200 107.840 ms - 130
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:718:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=MEDICINEDOSAGEMASTER 200 113.880 ms - 130
+POST /readData?WIDGET=MEDICINEDOSAGEMASTER 200 113.880 ms - 130
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:718:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=MEDICINEDOSAGEMASTER 200 102.485 ms - 130
+POST /readData?WIDGET=MEDICINEDOSAGEMASTER 200 102.485 ms - 130
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:718:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=MEDICINEDOSAGEMASTER 200 95.540 ms - 130
+POST /readData?WIDGET=MEDICINEDOSAGEMASTER 200 95.540 ms - 130
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:718:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=MEDICINEDOSAGEMASTER 200 90.863 ms - 130
+POST /readData?WIDGET=MEDICINEDOSAGEMASTER 200 90.863 ms - 130
+POST /updateData?WIDGET=MEDICINEDOSAGEMASTER 400 91.088 ms - 65
+POST /updateData?WIDGET=MEDICINEDOSAGEMASTER 400 91.088 ms - 65
+POST /updateData?WIDGET=MEDICINEDOSAGEMASTER 400 97.689 ms - 65
+POST /updateData?WIDGET=MEDICINEDOSAGEMASTER 400 97.689 ms - 65
+POST /updateData?WIDGET=MEDICINEDOSAGEMASTER 400 135.667 ms - 65
+POST /updateData?WIDGET=MEDICINEDOSAGEMASTER 400 135.667 ms - 65
+POST /updateData?WIDGET=MEDICINEDOSAGEMASTER 400 99.320 ms - 65
+POST /updateData?WIDGET=MEDICINEDOSAGEMASTER 400 99.320 ms - 65
+POST /updateData?WIDGET=MEDICINEDOSAGEMASTER 400 93.510 ms - 65
+POST /updateData?WIDGET=MEDICINEDOSAGEMASTER 400 93.510 ms - 65
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:672:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=MEDICINEDOSAGEMASTER 200 103.340 ms - 56
+POST /deleteData?WIDGET=MEDICINEDOSAGEMASTER 200 103.340 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:672:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=MEDICINEDOSAGEMASTER 200 100.834 ms - 56
+POST /deleteData?WIDGET=MEDICINEDOSAGEMASTER 200 100.834 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:672:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=MEDICINEDOSAGEMASTER 200 97.902 ms - 56
+POST /deleteData?WIDGET=MEDICINEDOSAGEMASTER 200 97.902 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:672:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=MEDICINEDOSAGEMASTER 200 98.245 ms - 56
+POST /deleteData?WIDGET=MEDICINEDOSAGEMASTER 200 98.245 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:672:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=MEDICINEDOSAGEMASTER 200 109.984 ms - 56
+POST /deleteData?WIDGET=MEDICINEDOSAGEMASTER 200 109.984 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1330:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=SHAREURL_CONFIGMASTER 200 110.288 ms - 69
+POST /addData?WIDGET=SHAREURL_CONFIGMASTER 200 110.288 ms - 69
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1330:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=SHAREURL_CONFIGMASTER 401 105.607 ms - 48
+POST /addData?WIDGET=SHAREURL_CONFIGMASTER 401 105.607 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1330:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=SHAREURL_CONFIGMASTER 401 101.027 ms - 48
+POST /addData?WIDGET=SHAREURL_CONFIGMASTER 401 101.027 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1330:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=SHAREURL_CONFIGMASTER 401 100.779 ms - 48
+POST /addData?WIDGET=SHAREURL_CONFIGMASTER 401 100.779 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1330:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=SHAREURL_CONFIGMASTER 401 97.067 ms - 48
+POST /addData?WIDGET=SHAREURL_CONFIGMASTER 401 97.067 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:867:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=SHAREURL_CONFIGMASTER 200 130.442 ms - 56
+POST /deleteData?WIDGET=SHAREURL_CONFIGMASTER 200 130.442 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:867:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=SHAREURL_CONFIGMASTER 200 111.447 ms - 56
+POST /deleteData?WIDGET=SHAREURL_CONFIGMASTER 200 111.447 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:867:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=SHAREURL_CONFIGMASTER 200 117.680 ms - 56
+POST /deleteData?WIDGET=SHAREURL_CONFIGMASTER 200 117.680 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:867:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=SHAREURL_CONFIGMASTER 200 145.009 ms - 56
+POST /deleteData?WIDGET=SHAREURL_CONFIGMASTER 200 145.009 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:867:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=SHAREURL_CONFIGMASTER 200 113.840 ms - 56
+POST /deleteData?WIDGET=SHAREURL_CONFIGMASTER 200 113.840 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=SHAREURL_CONFIGMASTER 200 103.746 ms - 284
+POST /readData?WIDGET=SHAREURL_CONFIGMASTER 200 103.746 ms - 284
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=SHAREURL_CONFIGMASTER 200 114.127 ms - 284
+POST /readData?WIDGET=SHAREURL_CONFIGMASTER 200 114.127 ms - 284
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=SHAREURL_CONFIGMASTER 200 104.446 ms - 284
+POST /readData?WIDGET=SHAREURL_CONFIGMASTER 200 104.446 ms - 284
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=SHAREURL_CONFIGMASTER 200 100.367 ms - 284
+POST /readData?WIDGET=SHAREURL_CONFIGMASTER 200 100.367 ms - 284
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=SHAREURL_CONFIGMASTER 200 96.115 ms - 284
+POST /readData?WIDGET=SHAREURL_CONFIGMASTER 200 96.115 ms - 284
+POST /updateData?WIDGET=SHAREURL_CONFIGMASTER 200 110.463 ms - 62
+POST /updateData?WIDGET=SHAREURL_CONFIGMASTER 200 110.463 ms - 62
+POST /updateData?WIDGET=SHAREURL_CONFIGMASTER 200 126.453 ms - 62
+POST /updateData?WIDGET=SHAREURL_CONFIGMASTER 200 126.453 ms - 62
+POST /updateData?WIDGET=SHAREURL_CONFIGMASTER 200 93.556 ms - 62
+POST /updateData?WIDGET=SHAREURL_CONFIGMASTER 200 93.556 ms - 62
+POST /updateData?WIDGET=SHAREURL_CONFIGMASTER 200 105.504 ms - 62
+POST /updateData?WIDGET=SHAREURL_CONFIGMASTER 200 105.504 ms - 62
+POST /updateData?WIDGET=SHAREURL_CONFIGMASTER 200 119.703 ms - 62
+POST /updateData?WIDGET=SHAREURL_CONFIGMASTER 200 119.703 ms - 62
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1105:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=BLOODGROUP 200 113.043 ms - 69
+POST /addData?WIDGET=BLOODGROUP 200 113.043 ms - 69
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1105:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=BLOODGROUP 401 97.449 ms - 48
+POST /addData?WIDGET=BLOODGROUP 401 97.449 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1105:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=BLOODGROUP 401 152.349 ms - 48
+POST /addData?WIDGET=BLOODGROUP 401 152.349 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1105:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=BLOODGROUP 401 93.254 ms - 48
+POST /addData?WIDGET=BLOODGROUP 401 93.254 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1105:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=BLOODGROUP 401 100.763 ms - 48
+POST /addData?WIDGET=BLOODGROUP 401 100.763 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:686:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=BLOODGROUP 200 104.241 ms - 156
+POST /readData?WIDGET=BLOODGROUP 200 104.241 ms - 156
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:686:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=BLOODGROUP 200 118.658 ms - 156
+POST /readData?WIDGET=BLOODGROUP 200 118.658 ms - 156
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:686:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=BLOODGROUP 200 108.366 ms - 156
+POST /readData?WIDGET=BLOODGROUP 200 108.366 ms - 156
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:686:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=BLOODGROUP 200 115.777 ms - 156
+POST /readData?WIDGET=BLOODGROUP 200 115.777 ms - 156
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:686:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=BLOODGROUP 200 119.187 ms - 156
+POST /readData?WIDGET=BLOODGROUP 200 119.187 ms - 156
+POST /updateData?WIDGET=BLOODGROUP 200 111.991 ms - 73
+POST /updateData?WIDGET=BLOODGROUP 200 111.991 ms - 73
+POST /updateData?WIDGET=BLOODGROUP 200 106.273 ms - 73
+POST /updateData?WIDGET=BLOODGROUP 200 106.273 ms - 73
+POST /updateData?WIDGET=BLOODGROUP 200 93.014 ms - 73
+POST /updateData?WIDGET=BLOODGROUP 200 93.014 ms - 73
+POST /updateData?WIDGET=BLOODGROUP 200 111.059 ms - 73
+POST /updateData?WIDGET=BLOODGROUP 200 111.059 ms - 73
+POST /updateData?WIDGET=BLOODGROUP 200 110.503 ms - 73
+POST /updateData?WIDGET=BLOODGROUP 200 110.503 ms - 73
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:642:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=BLOODGROUP 200 107.200 ms - 56
+POST /deleteData?WIDGET=BLOODGROUP 200 107.200 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:642:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=BLOODGROUP 200 109.846 ms - 56
+POST /deleteData?WIDGET=BLOODGROUP 200 109.846 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:642:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=BLOODGROUP 200 104.653 ms - 56
+POST /deleteData?WIDGET=BLOODGROUP 200 104.653 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:642:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=BLOODGROUP 200 106.018 ms - 56
+POST /deleteData?WIDGET=BLOODGROUP 200 106.018 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:642:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=BLOODGROUP 200 108.764 ms - 56
+POST /deleteData?WIDGET=BLOODGROUP 200 108.764 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1402:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=PHR_DOCUMENT 200 102.911 ms - 69
+POST /addData?WIDGET=PHR_DOCUMENT 200 102.911 ms - 69
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1402:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=PHR_DOCUMENT 401 95.588 ms - 48
+POST /addData?WIDGET=PHR_DOCUMENT 401 95.588 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1402:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=PHR_DOCUMENT 401 97.908 ms - 48
+POST /addData?WIDGET=PHR_DOCUMENT 401 97.908 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1402:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=PHR_DOCUMENT 401 100.706 ms - 48
+POST /addData?WIDGET=PHR_DOCUMENT 401 100.706 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1402:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=PHR_DOCUMENT 401 99.706 ms - 48
+POST /addData?WIDGET=PHR_DOCUMENT 401 99.706 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:837:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=PHR_DOCUMENT 200 112.493 ms - 486
+POST /readData?WIDGET=PHR_DOCUMENT 200 112.493 ms - 486
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:837:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=PHR_DOCUMENT 200 108.011 ms - 486
+POST /readData?WIDGET=PHR_DOCUMENT 200 108.011 ms - 486
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:837:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=PHR_DOCUMENT 200 104.406 ms - 486
+POST /readData?WIDGET=PHR_DOCUMENT 200 104.406 ms - 486
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:837:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=PHR_DOCUMENT 200 100.143 ms - 486
+POST /readData?WIDGET=PHR_DOCUMENT 200 100.143 ms - 486
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:837:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=PHR_DOCUMENT 200 103.275 ms - 486
+POST /readData?WIDGET=PHR_DOCUMENT 200 103.275 ms - 486
+POST /updateData?WIDGET=PHR_DOCUMENT 200 87.984 ms - 62
+POST /updateData?WIDGET=PHR_DOCUMENT 200 87.984 ms - 62
+POST /updateData?WIDGET=PHR_DOCUMENT 200 120.829 ms - 62
+POST /updateData?WIDGET=PHR_DOCUMENT 200 120.829 ms - 62
+POST /updateData?WIDGET=PHR_DOCUMENT 200 123.006 ms - 62
+POST /updateData?WIDGET=PHR_DOCUMENT 200 123.006 ms - 62
+POST /updateData?WIDGET=PHR_DOCUMENT 200 106.798 ms - 62
+POST /updateData?WIDGET=PHR_DOCUMENT 200 106.798 ms - 62
+POST /updateData?WIDGET=PHR_DOCUMENT 200 109.931 ms - 62
+POST /updateData?WIDGET=PHR_DOCUMENT 200 109.931 ms - 62
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:793:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=PHR_DOCUMENT 200 148.957 ms - 56
+POST /deleteData?WIDGET=PHR_DOCUMENT 200 148.957 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:793:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=PHR_DOCUMENT 200 98.668 ms - 56
+POST /deleteData?WIDGET=PHR_DOCUMENT 200 98.668 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:793:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=PHR_DOCUMENT 200 110.547 ms - 56
+POST /deleteData?WIDGET=PHR_DOCUMENT 200 110.547 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:793:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=PHR_DOCUMENT 200 113.678 ms - 56
+POST /deleteData?WIDGET=PHR_DOCUMENT 200 113.678 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:793:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=PHR_DOCUMENT 200 113.398 ms - 56
+POST /deleteData?WIDGET=PHR_DOCUMENT 200 113.398 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1441:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=DOC_CATEGORY 200 99.330 ms - 69
+POST /addData?WIDGET=DOC_CATEGORY 200 99.330 ms - 69
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1441:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=DOC_CATEGORY 401 130.381 ms - 48
+POST /addData?WIDGET=DOC_CATEGORY 401 130.381 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1441:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=DOC_CATEGORY 401 96.355 ms - 48
+POST /addData?WIDGET=DOC_CATEGORY 401 96.355 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1441:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=DOC_CATEGORY 401 103.721 ms - 48
+POST /addData?WIDGET=DOC_CATEGORY 401 103.721 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1441:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=DOC_CATEGORY 401 120.656 ms - 48
+POST /addData?WIDGET=DOC_CATEGORY 401 120.656 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=DOC_CATEGORY 200 128.651 ms - 163
+POST /readData?WIDGET=DOC_CATEGORY 200 128.651 ms - 163
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=DOC_CATEGORY 200 127.473 ms - 163
+POST /readData?WIDGET=DOC_CATEGORY 200 127.473 ms - 163
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=DOC_CATEGORY 200 126.530 ms - 163
+POST /readData?WIDGET=DOC_CATEGORY 200 126.530 ms - 163
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=DOC_CATEGORY 200 111.368 ms - 163
+POST /readData?WIDGET=DOC_CATEGORY 200 111.368 ms - 163
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=DOC_CATEGORY 200 125.174 ms - 163
+POST /readData?WIDGET=DOC_CATEGORY 200 125.174 ms - 163
+POST /updateData?WIDGET=DOC_CATEGORY 200 126.533 ms - 62
+POST /updateData?WIDGET=DOC_CATEGORY 200 126.533 ms - 62
+POST /updateData?WIDGET=DOC_CATEGORY 200 130.616 ms - 62
+POST /updateData?WIDGET=DOC_CATEGORY 200 130.616 ms - 62
+POST /updateData?WIDGET=DOC_CATEGORY 200 111.200 ms - 62
+POST /updateData?WIDGET=DOC_CATEGORY 200 111.200 ms - 62
+POST /updateData?WIDGET=DOC_CATEGORY 200 107.667 ms - 62
+POST /updateData?WIDGET=DOC_CATEGORY 200 107.667 ms - 62
+POST /updateData?WIDGET=DOC_CATEGORY 200 109.120 ms - 62
+POST /updateData?WIDGET=DOC_CATEGORY 200 109.120 ms - 62
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:818:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=DOC_CATEGORY 200 114.813 ms - 56
+POST /deleteData?WIDGET=DOC_CATEGORY 200 114.813 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:818:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=DOC_CATEGORY 200 96.703 ms - 56
+POST /deleteData?WIDGET=DOC_CATEGORY 200 96.703 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:818:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=DOC_CATEGORY 200 116.815 ms - 56
+POST /deleteData?WIDGET=DOC_CATEGORY 200 116.815 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:818:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=DOC_CATEGORY 200 97.597 ms - 56
+POST /deleteData?WIDGET=DOC_CATEGORY 200 97.597 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:818:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=DOC_CATEGORY 200 91.306 ms - 56
+POST /deleteData?WIDGET=DOC_CATEGORY 200 91.306 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1501:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=ALLERGY_SEVERITY 200 107.072 ms - 69
+POST /addData?WIDGET=ALLERGY_SEVERITY 200 107.072 ms - 69
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1501:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=ALLERGY_SEVERITY 401 103.818 ms - 48
+POST /addData?WIDGET=ALLERGY_SEVERITY 401 103.818 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1501:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=ALLERGY_SEVERITY 401 98.291 ms - 48
+POST /addData?WIDGET=ALLERGY_SEVERITY 401 98.291 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1501:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=ALLERGY_SEVERITY 401 105.639 ms - 48
+POST /addData?WIDGET=ALLERGY_SEVERITY 401 105.639 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1501:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=ALLERGY_SEVERITY 401 112.844 ms - 48
+POST /addData?WIDGET=ALLERGY_SEVERITY 401 112.844 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=ALLERGY_SEVERITY 200 98.073 ms - 264
+POST /readData?WIDGET=ALLERGY_SEVERITY 200 98.073 ms - 264
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=ALLERGY_SEVERITY 200 99.167 ms - 264
+POST /readData?WIDGET=ALLERGY_SEVERITY 200 99.167 ms - 264
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=ALLERGY_SEVERITY 200 107.921 ms - 264
+POST /readData?WIDGET=ALLERGY_SEVERITY 200 107.921 ms - 264
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=ALLERGY_SEVERITY 200 102.986 ms - 264
+POST /readData?WIDGET=ALLERGY_SEVERITY 200 102.986 ms - 264
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=ALLERGY_SEVERITY 200 109.038 ms - 264
+POST /readData?WIDGET=ALLERGY_SEVERITY 200 109.038 ms - 264
+POST /updateData?WIDGET=ALLERGY_SEVERITY 200 112.790 ms - 62
+POST /updateData?WIDGET=ALLERGY_SEVERITY 200 112.790 ms - 62
+POST /updateData?WIDGET=ALLERGY_SEVERITY 200 115.127 ms - 62
+POST /updateData?WIDGET=ALLERGY_SEVERITY 200 115.127 ms - 62
+POST /updateData?WIDGET=ALLERGY_SEVERITY 200 90.450 ms - 62
+POST /updateData?WIDGET=ALLERGY_SEVERITY 200 90.450 ms - 62
+POST /updateData?WIDGET=ALLERGY_SEVERITY 200 103.889 ms - 62
+POST /updateData?WIDGET=ALLERGY_SEVERITY 200 103.889 ms - 62
+POST /updateData?WIDGET=ALLERGY_SEVERITY 200 111.580 ms - 62
+POST /updateData?WIDGET=ALLERGY_SEVERITY 200 111.580 ms - 62
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:818:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=ALLERGY_SEVERITY 200 121.204 ms - 56
+POST /deleteData?WIDGET=ALLERGY_SEVERITY 200 121.204 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:818:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=ALLERGY_SEVERITY 200 93.401 ms - 56
+POST /deleteData?WIDGET=ALLERGY_SEVERITY 200 93.401 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:818:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=ALLERGY_SEVERITY 200 103.968 ms - 56
+POST /deleteData?WIDGET=ALLERGY_SEVERITY 200 103.968 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:818:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=ALLERGY_SEVERITY 200 101.756 ms - 56
+POST /deleteData?WIDGET=ALLERGY_SEVERITY 200 101.756 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:818:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=ALLERGY_SEVERITY 200 129.936 ms - 56
+POST /deleteData?WIDGET=ALLERGY_SEVERITY 200 129.936 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1561:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=ALLERGY_SINCE 200 127.118 ms - 69
+POST /addData?WIDGET=ALLERGY_SINCE 200 127.118 ms - 69
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1561:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=ALLERGY_SINCE 401 106.580 ms - 48
+POST /addData?WIDGET=ALLERGY_SINCE 401 106.580 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1561:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=ALLERGY_SINCE 401 108.034 ms - 48
+POST /addData?WIDGET=ALLERGY_SINCE 401 108.034 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1561:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=ALLERGY_SINCE 401 99.201 ms - 48
+POST /addData?WIDGET=ALLERGY_SINCE 401 99.201 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1561:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=ALLERGY_SINCE 401 102.969 ms - 48
+POST /addData?WIDGET=ALLERGY_SINCE 401 102.969 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=ALLERGY_SINCE 200 96.213 ms - 259
+POST /readData?WIDGET=ALLERGY_SINCE 200 96.213 ms - 259
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=ALLERGY_SINCE 200 124.123 ms - 259
+POST /readData?WIDGET=ALLERGY_SINCE 200 124.123 ms - 259
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=ALLERGY_SINCE 200 103.899 ms - 259
+POST /readData?WIDGET=ALLERGY_SINCE 200 103.899 ms - 259
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=ALLERGY_SINCE 200 100.799 ms - 259
+POST /readData?WIDGET=ALLERGY_SINCE 200 100.799 ms - 259
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=ALLERGY_SINCE 200 116.433 ms - 259
+POST /readData?WIDGET=ALLERGY_SINCE 200 116.433 ms - 259
+POST /updateData?WIDGET=ALLERGY_SINCE 200 109.247 ms - 62
+POST /updateData?WIDGET=ALLERGY_SINCE 200 109.247 ms - 62
+POST /updateData?WIDGET=ALLERGY_SINCE 200 136.386 ms - 62
+POST /updateData?WIDGET=ALLERGY_SINCE 200 136.386 ms - 62
+POST /updateData?WIDGET=ALLERGY_SINCE 200 102.327 ms - 62
+POST /updateData?WIDGET=ALLERGY_SINCE 200 102.327 ms - 62
+POST /updateData?WIDGET=ALLERGY_SINCE 200 105.327 ms - 62
+POST /updateData?WIDGET=ALLERGY_SINCE 200 105.327 ms - 62
+POST /updateData?WIDGET=ALLERGY_SINCE 200 106.745 ms - 62
+POST /updateData?WIDGET=ALLERGY_SINCE 200 106.745 ms - 62
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:818:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=ALLERGY_SINCE 200 111.167 ms - 56
+POST /deleteData?WIDGET=ALLERGY_SINCE 200 111.167 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:818:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=ALLERGY_SINCE 200 103.413 ms - 56
+POST /deleteData?WIDGET=ALLERGY_SINCE 200 103.413 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:818:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=ALLERGY_SINCE 200 116.814 ms - 56
+POST /deleteData?WIDGET=ALLERGY_SINCE 200 116.814 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:818:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=ALLERGY_SINCE 200 115.212 ms - 56
+POST /deleteData?WIDGET=ALLERGY_SINCE 200 115.212 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:818:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=ALLERGY_SINCE 200 115.927 ms - 56
+POST /deleteData?WIDGET=ALLERGY_SINCE 200 115.927 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1734:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=SECTOR_MASTER 200 97.512 ms - 69
+POST /addData?WIDGET=SECTOR_MASTER 200 97.512 ms - 69
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1734:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=SECTOR_MASTER 401 110.109 ms - 48
+POST /addData?WIDGET=SECTOR_MASTER 401 110.109 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1734:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=SECTOR_MASTER 401 105.784 ms - 48
+POST /addData?WIDGET=SECTOR_MASTER 401 105.784 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1734:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=SECTOR_MASTER 401 97.348 ms - 48
+POST /addData?WIDGET=SECTOR_MASTER 401 97.348 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:66:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/addFunctionsValidation.js:1734:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /addData?WIDGET=SECTOR_MASTER 401 101.945 ms - 48
+POST /addData?WIDGET=SECTOR_MASTER 401 101.945 ms - 48
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=SECTOR_MASTER 200 109.985 ms - 227
+POST /readData?WIDGET=SECTOR_MASTER 200 109.985 ms - 227
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=SECTOR_MASTER 200 100.918 ms - 227
+POST /readData?WIDGET=SECTOR_MASTER 200 100.918 ms - 227
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=SECTOR_MASTER 200 120.849 ms - 227
+POST /readData?WIDGET=SECTOR_MASTER 200 120.849 ms - 227
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=SECTOR_MASTER 200 109.178 ms - 227
+POST /readData?WIDGET=SECTOR_MASTER 200 109.178 ms - 227
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/readFunctionsValidation.js:865:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /readData?WIDGET=SECTOR_MASTER 200 135.026 ms - 227
+POST /readData?WIDGET=SECTOR_MASTER 200 135.026 ms - 227
+POST /updateData?WIDGET=SECTOR_MASTER 200 106.925 ms - 62
+POST /updateData?WIDGET=SECTOR_MASTER 200 106.925 ms - 62
+POST /updateData?WIDGET=SECTOR_MASTER 200 114.246 ms - 62
+POST /updateData?WIDGET=SECTOR_MASTER 200 114.246 ms - 62
+POST /updateData?WIDGET=SECTOR_MASTER 200 113.663 ms - 62
+POST /updateData?WIDGET=SECTOR_MASTER 200 113.663 ms - 62
+POST /updateData?WIDGET=SECTOR_MASTER 200 115.577 ms - 62
+POST /updateData?WIDGET=SECTOR_MASTER 200 115.577 ms - 62
+POST /updateData?WIDGET=SECTOR_MASTER 200 109.470 ms - 62
+POST /updateData?WIDGET=SECTOR_MASTER 200 109.470 ms - 62
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:818:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=SECTOR_MASTER 200 106.601 ms - 56
+POST /deleteData?WIDGET=SECTOR_MASTER 200 106.601 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:818:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=SECTOR_MASTER 200 95.461 ms - 56
+POST /deleteData?WIDGET=SECTOR_MASTER 200 95.461 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:818:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=SECTOR_MASTER 200 103.324 ms - 56
+POST /deleteData?WIDGET=SECTOR_MASTER 200 103.324 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:818:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=SECTOR_MASTER 200 109.487 ms - 56
+POST /deleteData?WIDGET=SECTOR_MASTER 200 109.487 ms - 56
+ReferenceError: moment is not defined
+    at transactionCount (/home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:56:23)
+    at /home/deepak/Desktop/DOIT/ehr_doit/validations/deleteFunctionsValidation.js:818:17
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+POST /deleteData?WIDGET=SECTOR_MASTER 200 107.812 ms - 56
+POST /deleteData?WIDGET=SECTOR_MASTER 200 107.812 ms - 56
+^A
